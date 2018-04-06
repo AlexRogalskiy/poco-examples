@@ -1,0 +1,4 @@
+pehw:
+  file: pocok.yaml
+  git: https://github.com/shiwaforce/pocok-example-hello-world.git
+  repository_dir: pocok-example-hello-world
