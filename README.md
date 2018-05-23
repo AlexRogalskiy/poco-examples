@@ -1,20 +1,20 @@
-# Pocok Examples
+# Proco Examples
 
-If you are not familiar with Pocok, you can find more information at [pocok.io](https://pocok.io).   
-If you haven't installed Pocok yet, follow the [Pocok's installation guide](http://pocok.io/documentation/install/).
+If you are not familiar with Proco, you can find more information at [proco.app](https://proco.app).   
+If you haven't installed Proco yet, follow the [Proco's installation guide](https://proco.app/documentation/install/).
 
 ## Getting Started
-Add pocok-examples to your local pocok catalog:
+Add proco examples to your local proco catalog:
 ```
-pocok repo add pocok-example https://github.com/shiwaforce/pocok-examples.git
+proco repo add proco-example https://github.com/shiwaforce/proco-examples.git
 ```
 
 List out all available projects:
 ```
-pocok porject ls
+proco porject ls
 ```
 
 Run any available project:
 ```
-pocok up <project name>
+proco up <project name>
 ```

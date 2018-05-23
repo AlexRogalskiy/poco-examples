@@ -1,3 +1,0 @@
-pocok-example-hello-world:
-  file: pocok.yaml
-  git: https://github.com/shiwaforce/pocok-example-hello-world.git
