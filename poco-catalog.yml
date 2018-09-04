@@ -1,3 +1,3 @@
-proco-example-hello-world:
-  file: proco.yaml
-  git: https://github.com/shiwaforce/proco-example-hello-world.git
+poco-example-hello-world:
+  file: poco.yaml
+  git: https://github.com/shiwaforce/poco-example-hello-world.git
