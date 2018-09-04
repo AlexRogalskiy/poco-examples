@@ -1,20 +1,20 @@
-# Proco Examples
+# Poco Examples
 
-If you are not familiar with Proco, you can find more information at [proco.app](https://proco.app).   
-If you haven't installed Proco yet, follow the [Proco's installation guide](https://proco.app/documentation/install/).
+If you are not familiar with Poco, you can find more information at [proco.app](https://proco.app).   
+If you haven't installed Poco yet, follow the [Poco's installation guide](https://proco.app/documentation/install/).
 
 ## Getting Started
-Add proco examples to your local proco catalog:
+Add poco examples to your local poco catalog:
 ```
-proco repo add proco-example https://github.com/shiwaforce/proco-examples.git
+poco repo add poco-example https://github.com/shiwaforce/poco-examples.git
 ```
 
 List out all available projects:
 ```
-proco porject ls
+poco project ls
 ```
 
 Run any available project:
 ```
-proco up <project name>
+poco up <project name>
 ```
